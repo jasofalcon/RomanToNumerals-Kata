@@ -1,10 +1,10 @@
 Code Kata is a term coined by Dave Thomas, co-author of the book The Pragmatic Programmer, in a bow to the Japanese concept of kata in the martial arts. A code kata is an exercise in programming which helps a programmer hone their skills through practice and repetition.
 
-This Kata is based on **KataRomanNumerals** taken from [codingdojo.org](http://codingdojo.org) site, however I perform conversion on opposite deirection. 
+This Kata is based on **KataRomanNumerals** taken from [codingdojo.org](http://codingdojo.org) site, however I perform conversion in opposite deirection, from Roman to Arabic.  
 
 #### :1234: Roman to Arabic numerals Kata
 
->Write a function to convert from Roman Numerals to Arabic numerals
+>Write a function to convert from Roman numerals to Arabic numerals
 
      I     --> 1
      X     --> 10
@@ -12,7 +12,6 @@ This Kata is based on **KataRomanNumerals** taken from [codingdojo.org](http://c
      XXIII --> 23
      XCIX  --> 99
      CLIX  --> 159
-     
      
 **What are the rules for writing roman numerals?**
 
