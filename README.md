@@ -2,9 +2,8 @@ Code Kata is a term coined by Dave Thomas, co-author of the book The Pragmatic P
 
 This Kata is based on **KataRomanNumerals** taken from [codingdojo.org](http://codingdojo.org) site, however I perform conversion on opposite deirection. 
 
-#### :crown: Roman To Numerals Kata
-	
->The Romans wrote numbers using letters - I, V, X, L, C, D, M. 
+#### :1234: Roman to Arabic numerals Kata
+
 >Write a function to convert from Roman Numerals to Arabic numerals
 
      I     --> 1
