@@ -19,8 +19,8 @@ This Kata is based on **KataRomanNumerals** taken from [codingdojo.org](http://c
 * Symbols are placed in order of value, starting with the largest values.
 * When the higher numeral is placed before a lower numeral, the values of each Roman numeral are added.
 * When smaller values precede larger values, the smaller values are subtracted from the larger values, and the result is added to the total.
-* Do not repeat I, X, and C more than three times in a row. (Number 4 on a Roman numeral clock is usually written as IIII. )
+* Do not repeat I, X, and C more than three times in a row (Number 4 on a Roman numeral clock is usually written as IIII).
 * Symbols V, L, and D cannot appear more than once consecutively.
-* Do not subtract a number from one that is more than 10 times greater: I may only precede V and X, X may only precede L and C, and C may only precede D and M.
+* Do not subtract a number from one that is more than 10 times greater: I may only precede V and X, X may only precede C and L, and C may only precede D and M.
 
 
